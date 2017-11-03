@@ -7,6 +7,7 @@ Windows tool for monitoring PCs on the internal network.
 - Python 2.7
 - Python pywin32 library installed
 - Python wmi library installed
+- Python mysql-connector installed
 - [USBDeview.exe](http://www.nirsoft.net/utils/usbdeview.zip) inside the project's folder
 
 ### To run...
